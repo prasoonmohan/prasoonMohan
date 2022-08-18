@@ -1,7 +1,7 @@
 Hi 👋 My name is Prasoon
 ========================
 
-Full-stack developer
+MERN-stack developer
 --------------------
 
 * 🌍  I'm based in India

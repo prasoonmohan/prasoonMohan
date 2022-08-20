@@ -6,8 +6,8 @@ MERN-stack developer
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [prasoonmohan2002@gmail.com](mailto:prasoonmohan2002@gmail.com)
-* 🧠  I'm learning Front-End development
-* 🤝  I'm open to collaborating on I'm open to collaborating on Front-end Development
+* 🧠  I'm learning Full stack development
+* 🤝  I'm open to collaborating on Front-end Development
 
 <a href="https://www.github.com/prasoonmohan" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/prasoonmohan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>

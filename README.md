@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mohan_prasoon" target="blank"><img src="https://img.shields.io/twitter/follow/mohan_prasoon?logo=twitter&style=for-the-badge" alt="mohan_prasoon" /></a> </p>
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **Nodejs**
 
 - 💬 Ask me about **web designing and web development**
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prasoon M</h1>
-<h3 align="center">A passionate front-End developer from India</h3>
+<h3 align="center">A passionate Reactjs developer from Kerala</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasoonmohan&label=Profile%20views&color=0e75b6&style=flat" alt="prasoonmohan" /> </p>
 
@@ -7,12 +7,12 @@
 
 <p align="left"> <a href="https://twitter.com/mohan_prasoon" target="blank"><img src="https://img.shields.io/twitter/follow/mohan_prasoon?logo=twitter&style=for-the-badge" alt="mohan_prasoon" /></a> </p>
 
-- 🌱 I’m currently learning **Nodejs**
 
 - 💬 Ask me about **web designing and web development**
 
-- 📫 How to reach me **prasoonmohan2002@gmail.com**
-<br>
+- 📫 How to reach me <br>
+[Portfolio](https://prasoonm.com/) <br>
+
 
 <a href="https://github.com/hafizmp" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizmp&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=ec4899&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 

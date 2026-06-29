@@ -10,7 +10,7 @@
 
 **Frontend Engineer & Founding Engineer**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=79C0FF&center=true&vCenter=true&width=500&lines=React.js+%26+Next.js+Specialist;4%2B+Years+of+Frontend+Engineering;Founder+%40+Kurl+Club;Building+Modern+Web+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=79C0FF&center=true&vCenter=true&width=500&lines=React.js+%26+Next.js+Specialist;4%2B+Years+of+Frontend+Engineering;Co-Founder+%40+KurlClub;Building+Modern+Web+Applications)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://prasufolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prasoon-mohan)
@@ -29,14 +29,14 @@ const prasoon: Developer = {
   role:       "Frontend Engineer & Founding Engineer",
   location:   "Kerala, India 🇮🇳",
   experience: "4+ years",
-  currentlyBuilding: "Kurl Club — Fitness & Wellness Platform",
+  currentlyBuilding: "KurlClub — Fitness & Wellness Platform",
   expertise:  ["React.js", "Next.js", "TypeScript", "UI Architecture", "Design Systems"],
   openTo:     ["Remote Roles", "Contract Work", "Startup Opportunities"],
   contact:    "thisismeprasu@gmail.com",
 };
 ```
 
-I build **production-grade web applications** with a product-first mindset. Currently running [Kurl Club](https://kurlclub.com) as Founder & Frontend Engineer — responsible for everything from architecture and UI to SEO and deployment.
+I build **production-grade web applications** with a product-first mindset. Currently running [KurlClub](https://kurlclub.com) as Co-Founder & Frontend Engineer — responsible for everything from architecture and UI to SEO and deployment.
 
 Previously at **Aufait Technologies**, where I delivered 4 production apps across e-commerce, social media, enterprise tools, and design systems — and led a frontend team that shipped a week ahead of schedule.
 
@@ -86,8 +86,8 @@ Previously at **Aufait Technologies**, where I delivered 4 production apps acros
 <tr>
 <td width="50%" valign="top">
 
-### 🏋️ Kurl Club
-**Founder & Frontend Engineer · 2025–Present**
+### 🏋️ KurlClub
+**Co-Founder & Frontend Engineer · 2025–Present**
 
 Fitness & wellness platform — built fully end-to-end.
 
@@ -175,7 +175,7 @@ Scalable car listings platform with dynamic inventory and test-drive booking flo
 ## Timeline
 
 ```
-2025 – Present  ▸ Founder & Frontend Engineer @ Kurl Club
+2025 – Present  ▸ Co-Founder & Frontend Engineer @ KurlClub
 2023 – 2025     ▸ Software Developer @ Aufait Technologies  (4 production apps delivered)
 Jul–Dec 2022    ▸ Web Developer @ Safe Software and Integrated Solution
 ```

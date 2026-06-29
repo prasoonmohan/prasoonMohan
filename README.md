@@ -12,7 +12,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=79C0FF&center=true&vCenter=true&width=500&lines=React.js+%26+Next.js+Specialist;4%2B+Years+of+Frontend+Engineering;Founder+%40+Kurl+Club;Building+Modern+Web+Applications)](https://git.io/typing-svg)
 
-[![Portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://prasoonmohan.vercel.app)
+[![Portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://prasufolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prasoon-mohan)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thisismeprasu@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=prasoonmohan&style=for-the-badge&color=79c0ff&label=PROFILE+VIEWS)](https://github.com/prasoonmohan)
@@ -196,7 +196,7 @@ I'm currently **open to work** — looking for roles where I can own the fronten
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prasoon-mohan)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://prasoonmohan.vercel.app)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://prasufolio.vercel.app)
 
 </div>
 

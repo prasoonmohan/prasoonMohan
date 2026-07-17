@@ -28,7 +28,7 @@ const prasoon: Developer = {
   name:       "Prasoon Mohan",
   role:       "Frontend Engineer & Founding Engineer",
   location:   "Kerala, India 🇮🇳",
-  experience: "4+ years",
+  experience: "5+ years",
   currentlyBuilding: "KurlClub — Fitness & Wellness Platform",
   expertise:  ["React.js", "Next.js", "TypeScript", "UI Architecture", "Design Systems"],
   openTo:     ["Remote Roles", "Contract Work", "Startup Opportunities"],

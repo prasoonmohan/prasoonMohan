@@ -10,7 +10,7 @@
 
 **Frontend Engineer & Founding Engineer**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=79C0FF&center=true&vCenter=true&width=500&lines=React.js+%26+Next.js+Specialist;4%2B+Years+of+Frontend+Engineering;Co-Founder+%40+KurlClub;Building+Modern+Web+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=79C0FF&center=true&vCenter=true&width=500&lines=React.js+%26+Next.js+Specialist;5%2B+Years+of+Frontend+Engineering;Co-Founder+%40+KurlClub;Building+Modern+Web+Applications)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://prasufolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prasoon-mohan)
